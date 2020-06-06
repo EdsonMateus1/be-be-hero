@@ -35,9 +35,12 @@
 .incident-container .content form{
     width: 100%;
     max-width: 450px;
+
 }
 
-.incident-container .content form input,
-.incident-container .content form textarea {
+.incident-container .content form input{
+    margin-top: 8px;
+}
+.incident-container .content form textarea{
     margin-top: 8px;
 }
